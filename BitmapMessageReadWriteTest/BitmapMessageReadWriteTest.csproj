@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MessageSteganography\MessageSteganography.csproj">
+    <ProjectReference Include="..\MessageSteganography\MessageSteganography.csproj">
       <Project>{0fbfbf3f-e822-41ae-85e1-d1573d024791}</Project>
       <Name>MessageSteganography</Name>
     </ProjectReference>
